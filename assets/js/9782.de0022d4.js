@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkglide_way_usage_docs=self.webpackChunkglide_way_usage_docs||[]).push([[9782],{9782:(e,t,d)=>{d.r(t),d.d(t,{default:()=>s});const s='{"documentCount":0,"nextId":0,"documentIds":{},"fieldIds":{"title":0,"titles":1,"text":2},"fieldLength":{},"averageFieldLength":[],"storedFields":{},"dirtCount":0,"index":[],"serializationVersion":2}'}}]);
